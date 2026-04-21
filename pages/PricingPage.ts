@@ -76,7 +76,7 @@ export default class PricingPage {
       this.planLink().click()
     ]);
 
-    await newTab.waitForLoadState('domcontentloaded');
+    await newTab.waitForLoadState('networkidle');
     return newTab;
   }
 }

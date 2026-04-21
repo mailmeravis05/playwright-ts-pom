@@ -8,7 +8,6 @@ The framework is designed to run UI tests.
 npm install
 ```
 
-
 **Running the tests:**
 
 ```bash

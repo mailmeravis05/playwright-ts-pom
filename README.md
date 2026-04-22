@@ -3,7 +3,7 @@ This is a sample automation framework using Playwright, Typescript and PageObjec
 The framework is designed to run UI tests. 
 
 ## Getting started
-## Installing Dependencies:
+## Installing Dependencies
 
 ```bash
 npm install

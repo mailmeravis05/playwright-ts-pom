@@ -23,7 +23,7 @@ export default class PricingPage {
     this.page.getByLabel('Electricity').first();
 
   private planLink = () =>
-    this.tableRows().nth(2).locator('a');
+    this.tableRows().nth(2).locator('a'); // Assuming first plan is in the second row (after header)
 
 
   async navigate() {

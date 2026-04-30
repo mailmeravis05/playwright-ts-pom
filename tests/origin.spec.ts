@@ -4,7 +4,7 @@ import { test } from '@playwright/test';
 import PricingPage from '../pages/PricingPage';
 import { PlanDetailsPage } from '../pages/PlanDetailsPage';
 // import { assertPdfText } from '../lib/pdfHelper';
-import { testData } from '../data/test-data';
+import testData from '../data/testData.json';
 
 
 test.describe('Origin Energy - plans flow', () => {

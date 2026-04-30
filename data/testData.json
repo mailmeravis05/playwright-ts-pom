@@ -1,0 +1,8 @@
+{
+ "address": "17 Bolinda Road, Balwyn North, VIC 3104",
+ "suggestion": "Balwyn North",
+ "planName": "Plan BPID/EFS",
+ "expectedPdfText": "Estimated gas cost",
+ "unexpectedPdfText": "Estimated electricity cost"
+
+}

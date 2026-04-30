@@ -1,0 +1,23 @@
+[
+    {
+        "address": "17 Bolinda Road, Balwyn North, VIC 3104",
+        "suggestion": "Balwyn North",
+        "planName": "Plan BPID/EFS",
+        "expectedPdfText": "Estimated gas cost",
+        "run": true
+    },
+    {
+        "address": "Unit 1 15 Illuka Crescent, MOUNT WAVERLEY VIC 3149",
+        "suggestion": "MOUNT WAVERLEY",
+        "planName": "Plan BPID/EFS",
+        "expectedPdfText": "Estimated gas cost",
+        "run": false 
+    },
+    {
+        "address": "75 Albion Road, BOX HILL VIC 3128",
+        "suggestion": "BOX HILL",
+        "planName": "Plan BPID/EFS",
+        "expectedPdfText": "Estimated gas cost",
+        "run": true
+    }
+]
